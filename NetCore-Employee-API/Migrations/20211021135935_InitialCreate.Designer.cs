@@ -10,7 +10,7 @@ using NetCore_Employee_API.Model;
 namespace NetCore_Employee_API.Migrations
 {
     [DbContext(typeof(EmployeeContext))]
-    [Migration("20211020213107_InitialCreate")]
+    [Migration("20211021135935_InitialCreate")]
     partial class InitialCreate
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
